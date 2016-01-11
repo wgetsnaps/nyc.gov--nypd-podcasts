@@ -7,12 +7,12 @@ http://wgetsnaps.github.io/nyc.gov--nypd-podcasts/www.nyc.gov/html/nypd/html/pr/
 
 This repository is a mirror of the following site:
 
-|        Key         |                 Value                  |
-|--------------------|----------------------------------------|
-| Site title         | Death Row Information                  |
-| Original publisher | Texas Dept. of Criminal Justice        |
-| URL                | http://www.tdcj.state.tx.us/death_row/ |
-| Mirrored at        | 2016-01-11 07:16:39                    |
+|     Key     |                        Value                        |
+|-------------|-----------------------------------------------------|
+| Site title  | Press Room: Podcasts                                |
+| Publisher   | New York Police Department                          |
+| URL         | http://www.nyc.gov/html/nypd/html/pr/podcasts.shtml |
+| Mirrored at | 2016-01-11 07:36:37                                 |
 
 
 
